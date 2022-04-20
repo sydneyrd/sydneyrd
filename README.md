@@ -1,4 +1,16 @@
-### Hi there 👋
+
+# Sydney Dickson
+
+### NSS Cohort 56
+
+### I'm currently learning ...
+* Markdown, like right this very second
+* Javascript
+* HTML and CSS
+
+
+
+
 
 <!--
 **sydneyrd/sydneyrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
