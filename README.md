@@ -1,21 +1,14 @@
 
 # Sydney Dickson
 
-### NSS Cohort 56
-
-## I'm currently learning ...
-* Python 
-* Django 
 
 ## I'm currently working on ...
-* A news/entertainment app for writing and reading other users articles. This is one is a team effort
-* Still tinkering with my front end capstone project, eventually server side will be done too
+* Forever tinkering with my first capstone project from Nashville Software School
 
 
 
 ## About
-When I'm not parked in front of the computer coding there's a good chance I'm parked in front of the computer gaming.  Currently enrolled in Nashville Software School and loving it.  
-
+When I'm not parked in front of the computer coding there's a good chance I'm parked in front of the computer gaming.
 
 
 ## Contact 
