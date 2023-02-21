@@ -2,11 +2,6 @@
 # Sydney Dickson
 
 
-## I'm currently working on ...
-* Forever tinkering with my first capstone project from Nashville Software School
-
-
-
 ## About
 When I'm not parked in front of the computer coding there's a good chance I'm parked in front of the computer gaming.
 
